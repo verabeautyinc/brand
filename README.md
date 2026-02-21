@@ -10,6 +10,9 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 
 ## Quick Navigation
 
+### Brand
+- [Brand Identity](./brand-identity.md) — Mission, vision, values, voice
+
 ### Foundations
 - [Color System](./foundations/colors.md) — Primary, secondary (Monk Skin Tone), semantic, and dark mode palettes
 - [Typography](./foundations/typography.md) — Type scale, weights, line heights, and font pairing
@@ -37,8 +40,13 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 - [Do's and Don'ts](./guidelines/dos-and-donts.md) — 10 examples with visual descriptions
 - [Implementation Guide](./guidelines/implementation.md) — Developer reference
 
-### Brand
-- [Brand Identity](./brand-identity.md) — Mission, vision, values, voice
+### Marketing Asset Library
+- [Digital Advertising](./marketing/digital-advertising.md) — Google Ads, Facebook/Instagram, TikTok scripts
+- [Email Marketing](./marketing/email-marketing.md) — Welcome series, nurture sequence, re-engagement
+- [Landing Pages](./marketing/landing-pages.md) — Hero, features, social proof, FAQ
+- [Social Media](./marketing/social-media.md) — LinkedIn, X threads, Instagram, TikTok
+- [Sales Enablement](./marketing/sales-enablement.md) — One-pager, deck, battlecard, objection handling
+- [Content Marketing](./marketing/content-marketing.md) — Blog outlines, whitepaper, webinar script
 
 ---
 
@@ -64,4 +72,4 @@ Vera's design language is rooted in three beliefs:
 
 ## Version
 
-**v1.0.0** — February 2026
+**v1.0.1** — February 2026
