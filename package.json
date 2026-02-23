@@ -1,0 +1,14 @@
+{
+  "name": "@vera/design-tokens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-tokens.mjs",
+    "verify": "node scripts/verify-build.mjs",
+    "build:verify": "npm run build && npm run verify"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.3.0"
+  }
+}

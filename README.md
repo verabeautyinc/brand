@@ -21,6 +21,7 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 
 ### Tokens
 - [Design Tokens (JSON)](./tokens/design-tokens.json) — Complete token structure for developer handoff
+- Build pipeline — Generates platform-specific outputs from source tokens (see [Token Build Pipeline](#token-build-pipeline) below)
 
 ### Guidelines
 - [Design Principles](./guidelines/principles.md) — Three core principles with examples
@@ -54,6 +55,29 @@ Vera's design language is rooted in three beliefs:
 | Mobile (iOS/Android) | React Native Expo | Active |
 | Web (Reception + Landing) | Next.js 15 | Active |
 | API | Hono + Bun | Active |
+
+---
+
+## Token Build Pipeline
+
+The design tokens source file (`tokens/design-tokens.json`) is transformed into platform-specific outputs via [Style Dictionary v4](https://styledictionary.com/).
+
+```bash
+npm install              # One-time setup
+npm run build            # Generate all outputs
+npm run verify           # Smoke test outputs
+npm run build:verify     # Both in sequence
+```
+
+### Generated Outputs
+
+| Output | Path | Description |
+|--------|------|-------------|
+| CSS | `build/css/tokens.css` | Custom properties (`--vera-*`) with rem dimensions, hex colors |
+| TypeScript | `build/ts/tokens.ts` | Nested `as const` object with numeric dimensions/durations |
+| Figma | `build/figma/vera.json` | DTCG JSON for Tokens Studio import |
+
+The `build/` directory is gitignored — run `npm run build` after cloning.
 
 ---
 
