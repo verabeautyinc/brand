@@ -11,25 +11,30 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 ## Quick Navigation
 
 ### Brand
+
 - [Brand Identity](./brand-identity.md) — Mission, vision, values, voice
 
 ### Foundations
+
 - [Color System](./foundations/colors.md) — Primary, secondary (Monk Skin Tone), semantic, and dark mode palettes
 - [Typography](./foundations/typography.md) — Type scale, weights, line heights, and font pairing
 - [Layout & Grid](./foundations/layout.md) — 12-column responsive grid, breakpoints, safe areas
 - [Spacing](./foundations/spacing.md) — 8px base unit scale and usage guidelines
 
 ### Tokens
+
 - [Design Tokens (JSON)](./tokens/design-tokens.json) — Complete token structure for developer handoff
 - Build pipeline — Generates platform-specific outputs from source tokens (see [Token Build Pipeline](#token-build-pipeline) below)
 - [Design Tokens (preview)](https://verabeautyinc.github.io/design-system/preview.html)
 
 ### Guidelines
+
 - [Design Principles](./guidelines/principles.md) — Three core principles with examples
 - [Do's and Don'ts](./guidelines/dos-and-donts.md) — 10 examples with visual descriptions
 - [Implementation Guide](./guidelines/implementation.md) — Developer reference
 
 ### Marketing Asset Library
+
 - [Digital Advertising](./marketing/digital-advertising.md) — Google Ads, Facebook/Instagram, TikTok scripts
 - [Email Marketing](./marketing/email-marketing.md) — Welcome series, nurture sequence, re-engagement
 - [Landing Pages](./marketing/landing-pages.md) — Hero, features, social proof, FAQ
@@ -51,11 +56,11 @@ Vera's design language is rooted in three beliefs:
 
 ## Platform Coverage
 
-| Platform | Framework | Status |
-|----------|-----------|--------|
-| Mobile (iOS/Android) | React Native Expo | Active |
-| Web (Reception + Landing) | Next.js 15 | Active |
-| API | Hono + Bun | Active |
+| Platform                  | Framework         | Status |
+| ------------------------- | ----------------- | ------ |
+| Mobile (iOS/Android)      | React Native Expo | Active |
+| Web (Reception + Landing) | Next.js 15        | Active |
+| API                       | Hono + Bun        | Active |
 
 ---
 
@@ -72,11 +77,11 @@ npm run build:verify     # Both in sequence
 
 ### Generated Outputs
 
-| Output | Path | Description |
-|--------|------|-------------|
-| CSS | `build/css/tokens.css` | Custom properties (`--vera-*`) with rem dimensions, hex colors |
-| TypeScript | `build/ts/tokens.ts` | Nested `as const` object with numeric dimensions/durations |
-| Figma | `build/figma/vera.json` | DTCG JSON for Tokens Studio import |
+| Output     | Path                    | Description                                                    |
+| ---------- | ----------------------- | -------------------------------------------------------------- |
+| CSS        | `build/css/tokens.css`  | Custom properties (`--vera-*`) with rem dimensions, hex colors |
+| TypeScript | `build/ts/tokens.ts`    | Nested `as const` object with numeric dimensions/durations     |
+| Figma      | `build/figma/vera.json` | DTCG JSON for Tokens Studio import                             |
 
 The `build/` directory is gitignored — run `npm run build` after cloning.
 
@@ -84,4 +89,4 @@ The `build/` directory is gitignored — run `npm run build` after cloning.
 
 ## Version
 
-**v1.0.1** — February 2026
+**v1.0.2** — March 2026
