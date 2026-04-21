@@ -13,6 +13,7 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 ### Brand
 
 - [Brand Identity](./brand-identity.md) — Mission, vision, values, voice
+- [Gwallee](./gwallee.md) — The manifesto. What Gwallee is, why Vera is built around it, and how we speak it.
 
 ### Foundations
 

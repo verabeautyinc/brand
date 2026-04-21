@@ -103,7 +103,7 @@ Inclusivity at Vera isn't a feature — it's a foundation. Our design system is 
 
 **Photography standards**: Marketing and UI imagery represents diverse ages (35–55+), ethnicities, and skin types. No retouching that removes natural aging (fine lines, natural texture).
 
-**Language that empowers**: We say "your goals" not "your problems." We say "treatment options" not "fixes." We never use language that implies something is wrong with the user.
+**Language that empowers**: We say "your goals" not "your problems." We say "treatment options" not "fixes." We never use language that implies something is wrong with the user. Every design decision should leave the user more confident, not more anxious.
 
 **Accessible by default**: Every color pairing meets WCAG AA. Every interactive element is keyboard-navigable. Every image has descriptive alt text. Every motion respects `prefers-reduced-motion`. Accessibility isn't an add-on.
 
