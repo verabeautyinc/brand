@@ -11,6 +11,9 @@ Age beautifully.
 ## Vision
 The most trusted platform for all things aesthetic treatments.
 
+## Central Concept
+**[Gwallee](./gwallee.md)** — Korean 관리, "care, maintained." The practice Vera is built around. See the [Gwallee manifesto](./gwallee.md) for positioning, scope, and voice.
+
 ---
 
 ## Values
@@ -18,17 +21,14 @@ The most trusted platform for all things aesthetic treatments.
 ### 1. Honesty
 Radical transparency, delivered kindly. We show real results, real prices, real reviews. No filters on truth — only on photos when the user chooses.
 
-### 2. Beauty
-Look better to feel better. We believe aesthetic care is self-care, not vanity. Every design decision should make the user feel more confident, not more anxious.
-
-### 3. Science
+### 2. Science
 Evidence over hype. We cite sources, surface clinical data, and partner with board-certified providers. If the science isn't there, we say so.
 
-### 4. Empathy
-We build to connect, not to convince. Every interaction should feel like guidance from someone who genuinely cares about your skin health journey.
-
-### 5. Inclusivity
+### 3. Inclusivity
 Access for all skin tones. Our platform validates across the full Monk Skin Tone scale. Beauty is not one shade, one age, or one standard.
+
+### 4. Practice
+Skin is a practice, not a purchase. Aesthetic care is self-care, not vanity — every interaction should leave you more confident, not more anxious. We design for the long relationship, not the single transaction: every product decision should make the next visit easier, not the first conversion higher. Results compound with rhythm; so does trust. This is Gwallee made operational (see [Gwallee](./gwallee.md)).
 
 ---
 
