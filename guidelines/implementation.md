@@ -50,7 +50,7 @@ Apply all five `.variable` classes to the root `<html>` element so `--font-displ
 <html className={`${geistSans.variable} ${geistMono.variable} ${cormorantGaramond.variable} ${veraCustom.variable} ${aritaBuri.variable}`}>
 ```
 
-Source the Arita Buri Light woff2 from [taevel02/typeface-arita](https://github.com/taevel02/typeface-arita) (Amorepacific gift, free commercial use). Only the Hangul + basic Latin file is needed — non-Korean glyphs fall through to Cormorant via the `--font-display` stack.
+The Arita Buri Light woff2 is vendored in this design-system repo at [`fonts/Arita-buriL.woff2`](../fonts/Arita-buriL.woff2) (originally sourced from [taevel02/typeface-arita](https://github.com/taevel02/typeface-arita), Amorepacific gift — free commercial use). Copy it into your app's font directory (e.g. `public/fonts/` for Next.js) and point `next/font/local` at it. Only the Hangul + basic Latin file is needed — non-Korean glyphs fall through to Cormorant via the `--font-display` stack.
 
 #### Tailwind CSS v4 Configuration
 

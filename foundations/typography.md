@@ -61,7 +61,7 @@ Arita Buri (부리 = _serif_ in Korean) was designed by Ahn Sang-soo's studio an
 
 The two-tier Korean system mirrors the Latin one: Pretendard:Geist :: Arita Buri:Cormorant Garamond. Body text in one, brand moments in the other.
 
-- **Source:** [taevel02/typeface-arita](https://github.com/taevel02/typeface-arita) (Amorepacific gift — free commercial use)
+- **Source:** Vendored at [`fonts/Arita-buriL.woff2`](../fonts/Arita-buriL.woff2). Original from [taevel02/typeface-arita](https://github.com/taevel02/typeface-arita) — Amorepacific gift, free commercial use.
 - **Weights used:** Light (300) — pairs with Cormorant 300 italic
 - **Usage:** Display text only (18px+). Never for UI elements or body text. Used only for Korean glyphs in brand contexts — non-Korean characters fall through to Cormorant Garamond via the `--font-display` stack.
 
