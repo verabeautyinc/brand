@@ -2,7 +2,7 @@
 
 > Age beautifully, backed by science.
 
-The Vera Design System is the single source of truth for building cohesive, accessible, and beautiful experiences across every Vera Beauty touchpoint — mobile app, web platform, and marketing.
+The Vera Design System is the single source of truth for building cohesive, accessible, and beautiful experiences across every Vera Beauty touchpoint online.
 
 Built on Apple Human Interface Guidelines principles with a focus on **minimalist luxury**, **clinical trust**, and **inclusive beauty**.
 
@@ -34,15 +34,6 @@ Built on Apple Human Interface Guidelines principles with a focus on **minimalis
 - [Design Principles](./guidelines/principles.md) — Three core principles with examples
 - [Do's and Don'ts](./guidelines/dos-and-donts.md) — 10 examples with visual descriptions
 - [Implementation Guide](./guidelines/implementation.md) — Developer reference
-
-### Marketing Asset Library
-
-- [Digital Advertising](./marketing/digital-advertising.md) — Google Ads, Facebook/Instagram, TikTok scripts
-- [Email Marketing](./marketing/email-marketing.md) — Welcome series, nurture sequence, re-engagement
-- [Landing Pages](./marketing/landing-pages.md) — Hero, features, social proof, FAQ
-- [Social Media](./marketing/social-media.md) — LinkedIn, X threads, Instagram, TikTok
-- [Sales Enablement](./marketing/sales-enablement.md) — One-pager, deck, battlecard, objection handling
-- [Content Marketing](./marketing/content-marketing.md) — Blog outlines, whitepaper, webinar script
 
 ---
 
